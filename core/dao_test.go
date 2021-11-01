@@ -20,10 +20,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Fantom-foundation/go-ethereum/consensus/ethash"
-	"github.com/Fantom-foundation/go-ethereum/core/rawdb"
-	"github.com/Fantom-foundation/go-ethereum/core/vm"
-	"github.com/Fantom-foundation/go-ethereum/params"
+	"github.com/DevelopCrypto/go-ethereum/consensus/ethash"
+	"github.com/DevelopCrypto/go-ethereum/core/rawdb"
+	"github.com/DevelopCrypto/go-ethereum/core/vm"
+	"github.com/DevelopCrypto/go-ethereum/params"
 )
 
 // Tests that DAO-fork enabled clients can properly filter out fork-commencing

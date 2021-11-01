@@ -21,10 +21,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/core/forkid"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enr"
-	"github.com/Fantom-foundation/go-ethereum/params"
-	"github.com/Fantom-foundation/go-ethereum/rlp"
+	"github.com/DevelopCrypto/go-ethereum/core/forkid"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enr"
+	"github.com/DevelopCrypto/go-ethereum/params"
+	"github.com/DevelopCrypto/go-ethereum/rlp"
 	"gopkg.in/urfave/cli.v1"
 )
 

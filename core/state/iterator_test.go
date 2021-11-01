@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
-	"github.com/Fantom-foundation/go-ethereum/ethdb"
+	"github.com/DevelopCrypto/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/ethdb"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

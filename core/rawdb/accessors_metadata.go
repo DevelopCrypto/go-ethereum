@@ -19,11 +19,11 @@ package rawdb
 import (
 	"encoding/json"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
-	"github.com/Fantom-foundation/go-ethereum/ethdb"
-	"github.com/Fantom-foundation/go-ethereum/log"
-	"github.com/Fantom-foundation/go-ethereum/params"
-	"github.com/Fantom-foundation/go-ethereum/rlp"
+	"github.com/DevelopCrypto/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/ethdb"
+	"github.com/DevelopCrypto/go-ethereum/log"
+	"github.com/DevelopCrypto/go-ethereum/params"
+	"github.com/DevelopCrypto/go-ethereum/rlp"
 )
 
 // ReadDatabaseVersion retrieves the version number of the database.

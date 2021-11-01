@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/p2p/simulations/pipes"
+	"github.com/DevelopCrypto/go-ethereum/p2p/simulations/pipes"
 )
 
 func TestTCPPipe(t *testing.T) {

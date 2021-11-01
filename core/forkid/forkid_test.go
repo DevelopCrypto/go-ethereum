@@ -21,9 +21,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
-	"github.com/Fantom-foundation/go-ethereum/params"
-	"github.com/Fantom-foundation/go-ethereum/rlp"
+	"github.com/DevelopCrypto/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/params"
+	"github.com/DevelopCrypto/go-ethereum/rlp"
 )
 
 // TestCreation tests that different genesis and fork rule combinations result in

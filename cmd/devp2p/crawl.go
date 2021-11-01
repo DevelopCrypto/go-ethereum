@@ -19,9 +19,9 @@ package main
 import (
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/log"
-	"github.com/Fantom-foundation/go-ethereum/p2p/discover"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enode"
+	"github.com/DevelopCrypto/go-ethereum/log"
+	"github.com/DevelopCrypto/go-ethereum/p2p/discover"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enode"
 )
 
 type crawler struct {

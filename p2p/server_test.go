@@ -26,11 +26,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/crypto"
-	"github.com/Fantom-foundation/go-ethereum/internal/testlog"
-	"github.com/Fantom-foundation/go-ethereum/log"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enode"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enr"
+	"github.com/DevelopCrypto/go-ethereum/crypto"
+	"github.com/DevelopCrypto/go-ethereum/internal/testlog"
+	"github.com/DevelopCrypto/go-ethereum/log"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enode"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enr"
 	"golang.org/x/crypto/sha3"
 )
 

@@ -23,10 +23,10 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
-	"github.com/Fantom-foundation/go-ethereum/crypto"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enode"
-	"github.com/Fantom-foundation/go-ethereum/rlp"
+	"github.com/DevelopCrypto/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/crypto"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enode"
+	"github.com/DevelopCrypto/go-ethereum/rlp"
 )
 
 // Constants to match up protocol versions and messages

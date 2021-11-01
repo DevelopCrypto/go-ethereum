@@ -20,8 +20,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/Fantom-foundation/go-ethereum/core/types"
-	"github.com/Fantom-foundation/go-ethereum/crypto"
+	"github.com/DevelopCrypto/go-ethereum/core/types"
+	"github.com/DevelopCrypto/go-ethereum/crypto"
 )
 
 // Tests that transactions can be added to strict lists and list contents and

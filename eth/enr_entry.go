@@ -17,10 +17,10 @@
 package eth
 
 import (
-	"github.com/Fantom-foundation/go-ethereum/core"
-	"github.com/Fantom-foundation/go-ethereum/core/forkid"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enode"
-	"github.com/Fantom-foundation/go-ethereum/rlp"
+	"github.com/DevelopCrypto/go-ethereum/core"
+	"github.com/DevelopCrypto/go-ethereum/core/forkid"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enode"
+	"github.com/DevelopCrypto/go-ethereum/rlp"
 )
 
 // ethEntry is the "eth" ENR entry which advertises eth protocol

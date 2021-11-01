@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
-	"github.com/Fantom-foundation/go-ethereum/core/rawdb"
-	"github.com/Fantom-foundation/go-ethereum/core/types"
+	"github.com/DevelopCrypto/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/core/rawdb"
+	"github.com/DevelopCrypto/go-ethereum/core/types"
 )
 
 // Runs multiple tests with randomized parameters.

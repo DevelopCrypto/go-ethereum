@@ -7,12 +7,12 @@ import (
 	"math/big"
 	"strings"
 
-	ethereum "github.com/Fantom-foundation/go-ethereum"
-	"github.com/Fantom-foundation/go-ethereum/accounts/abi"
-	"github.com/Fantom-foundation/go-ethereum/accounts/abi/bind"
-	"github.com/Fantom-foundation/go-ethereum/common"
-	"github.com/Fantom-foundation/go-ethereum/core/types"
-	"github.com/Fantom-foundation/go-ethereum/event"
+	ethereum "github.com/DevelopCrypto/go-ethereum"
+	"github.com/DevelopCrypto/go-ethereum/accounts/abi"
+	"github.com/DevelopCrypto/go-ethereum/accounts/abi/bind"
+	"github.com/DevelopCrypto/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/core/types"
+	"github.com/DevelopCrypto/go-ethereum/event"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

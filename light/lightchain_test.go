@@ -21,13 +21,13 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
-	"github.com/Fantom-foundation/go-ethereum/consensus/ethash"
-	"github.com/Fantom-foundation/go-ethereum/core"
-	"github.com/Fantom-foundation/go-ethereum/core/rawdb"
-	"github.com/Fantom-foundation/go-ethereum/core/types"
-	"github.com/Fantom-foundation/go-ethereum/ethdb"
-	"github.com/Fantom-foundation/go-ethereum/params"
+	"github.com/DevelopCrypto/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/consensus/ethash"
+	"github.com/DevelopCrypto/go-ethereum/core"
+	"github.com/DevelopCrypto/go-ethereum/core/rawdb"
+	"github.com/DevelopCrypto/go-ethereum/core/types"
+	"github.com/DevelopCrypto/go-ethereum/ethdb"
+	"github.com/DevelopCrypto/go-ethereum/params"
 )
 
 // So we can deterministically seed different blockchains

@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/common"
 )
 
 func BenchmarkCutOriginal(b *testing.B) {

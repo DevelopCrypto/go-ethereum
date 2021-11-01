@@ -23,8 +23,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/Fantom-foundation/go-ethereum/crypto"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enode"
+	"github.com/DevelopCrypto/go-ethereum/crypto"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enode"
 )
 
 func TestUDPv4_Lookup(t *testing.T) {

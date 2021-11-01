@@ -22,7 +22,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/common"
 )
 
 // Interface represents a wrapped version of Go's interface{}, with the capacity

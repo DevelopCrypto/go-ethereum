@@ -24,9 +24,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Fantom-foundation/go-ethereum/common/hexutil"
-	"github.com/Fantom-foundation/go-ethereum/internal/ethapi"
-	"github.com/Fantom-foundation/go-ethereum/log"
+	"github.com/DevelopCrypto/go-ethereum/common/hexutil"
+	"github.com/DevelopCrypto/go-ethereum/internal/ethapi"
+	"github.com/DevelopCrypto/go-ethereum/log"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

@@ -24,14 +24,14 @@ import (
 	"net"
 	"os"
 
-	"github.com/Fantom-foundation/go-ethereum/cmd/utils"
-	"github.com/Fantom-foundation/go-ethereum/crypto"
-	"github.com/Fantom-foundation/go-ethereum/log"
-	"github.com/Fantom-foundation/go-ethereum/p2p/discover"
-	"github.com/Fantom-foundation/go-ethereum/p2p/discv5"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enode"
-	"github.com/Fantom-foundation/go-ethereum/p2p/nat"
-	"github.com/Fantom-foundation/go-ethereum/p2p/netutil"
+	"github.com/DevelopCrypto/go-ethereum/cmd/utils"
+	"github.com/DevelopCrypto/go-ethereum/crypto"
+	"github.com/DevelopCrypto/go-ethereum/log"
+	"github.com/DevelopCrypto/go-ethereum/p2p/discover"
+	"github.com/DevelopCrypto/go-ethereum/p2p/discv5"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enode"
+	"github.com/DevelopCrypto/go-ethereum/p2p/nat"
+	"github.com/DevelopCrypto/go-ethereum/p2p/netutil"
 )
 
 func main() {

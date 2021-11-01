@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/log"
+	"github.com/DevelopCrypto/go-ethereum/log"
 )
 
 // deployWallet creates a new web wallet based on some user input.

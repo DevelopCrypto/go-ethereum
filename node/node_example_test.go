@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Fantom-foundation/go-ethereum/node"
-	"github.com/Fantom-foundation/go-ethereum/p2p"
-	"github.com/Fantom-foundation/go-ethereum/rpc"
+	"github.com/DevelopCrypto/go-ethereum/node"
+	"github.com/DevelopCrypto/go-ethereum/p2p"
+	"github.com/DevelopCrypto/go-ethereum/rpc"
 )
 
 // SampleService is a trivial network service that can be attached to a node for

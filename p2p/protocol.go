@@ -19,8 +19,8 @@ package p2p
 import (
 	"fmt"
 
-	"github.com/Fantom-foundation/go-ethereum/p2p/enode"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enr"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enode"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enr"
 )
 
 // Protocol represents a P2P subprotocol implementation.

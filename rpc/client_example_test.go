@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/rpc"
+	"github.com/DevelopCrypto/go-ethereum/rpc"
 )
 
 // In this example, our client wishes to track the latest 'block number'

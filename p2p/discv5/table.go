@@ -29,7 +29,7 @@ import (
 	"net"
 	"sort"
 
-	"github.com/Fantom-foundation/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/common"
 )
 
 const (

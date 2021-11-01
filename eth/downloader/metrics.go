@@ -19,7 +19,7 @@
 package downloader
 
 import (
-	"github.com/Fantom-foundation/go-ethereum/metrics"
+	"github.com/DevelopCrypto/go-ethereum/metrics"
 )
 
 var (

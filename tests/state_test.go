@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Fantom-foundation/go-ethereum/core/vm"
+	"github.com/DevelopCrypto/go-ethereum/core/vm"
 )
 
 func TestState(t *testing.T) {

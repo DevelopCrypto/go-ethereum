@@ -21,8 +21,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/Fantom-foundation/go-ethereum/crypto"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enr"
+	"github.com/DevelopCrypto/go-ethereum/crypto"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enr"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -25,11 +25,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/accounts/keystore"
-	"github.com/Fantom-foundation/go-ethereum/common"
-	"github.com/Fantom-foundation/go-ethereum/console"
-	"github.com/Fantom-foundation/go-ethereum/p2p/dnsdisc"
-	"github.com/Fantom-foundation/go-ethereum/p2p/enode"
+	"github.com/DevelopCrypto/go-ethereum/accounts/keystore"
+	"github.com/DevelopCrypto/go-ethereum/common"
+	"github.com/DevelopCrypto/go-ethereum/console"
+	"github.com/DevelopCrypto/go-ethereum/p2p/dnsdisc"
+	"github.com/DevelopCrypto/go-ethereum/p2p/enode"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

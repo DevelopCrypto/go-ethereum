@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/common/mclock"
+	"github.com/DevelopCrypto/go-ethereum/common/mclock"
 )
 
 const (

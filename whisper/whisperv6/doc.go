@@ -35,7 +35,7 @@ package whisperv6
 import (
 	"time"
 
-	"github.com/Fantom-foundation/go-ethereum/crypto"
+	"github.com/DevelopCrypto/go-ethereum/crypto"
 )
 
 // Whisper protocol parameters
